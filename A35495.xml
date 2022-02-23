@@ -1,0 +1,605 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curious collection of paintings, drawings, and prints by the best masters. Will be sold by auction on Friday the 31st of this instant May, 1689. at Tom's Coffee-House, in Pope's-Head-Alley, over against the Royal-Exchange, Cornhill The sale beginning precisely at four of the clock in the afternoon. Catalogues of which are distributed by Mr. Gilliflower, in Westminster-Hall: Mr. Nott in the Pall-Mall: Mr. Bently in Russel-street, Covent-Garden: Mr. Wilkinson in Fleet-street: Mr. Miller in St. Paul's Church-yard: and Mr. Crouch over against the Royal-Exchange, in Cornhill, booksellers. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after it at the said place.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35495</idno>
+            <idno type="STC">Wing C7669</idno>
+            <idno type="STC">ESTC R214428</idno>
+            <idno type="EEBO-CITATION">99826603</idno>
+            <idno type="PROQUEST">99826603</idno>
+            <idno type="VID">31006</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35495)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31006)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1828:53)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curious collection of paintings, drawings, and prints by the best masters. Will be sold by auction on Friday the 31st of this instant May, 1689. at Tom's Coffee-House, in Pope's-Head-Alley, over against the Royal-Exchange, Cornhill The sale beginning precisely at four of the clock in the afternoon. Catalogues of which are distributed by Mr. Gilliflower, in Westminster-Hall: Mr. Nott in the Pall-Mall: Mr. Bently in Russel-street, Covent-Garden: Mr. Wilkinson in Fleet-street: Mr. Miller in St. Paul's Church-yard: and Mr. Crouch over against the Royal-Exchange, in Cornhill, booksellers. The conditions of sale as usual, and the time of paying and fetching away the lots so bought, to be within three days after it at the said place.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Art auctions --  England --  London --  Early works to 1800.</term>
+               <term>Art --  England --  Catalogs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31006:1"/>
+            <pb facs="tcp:31006:1" rendition="simple:additions"/>
+            <p>A Curious COLLECTION OF <hi>PAINTINGS, DRAWINGS,</hi> and <hi>PRINTS</hi> by the Beſt MASTERS.</p>
+            <p>Will be Sold by AUCTION on <hi>Friday</hi> the 31ſt of this inſtant <hi>May,</hi> 1689. at <hi>Tom</hi>'s Coffee-Houſe, in <hi>Pope</hi>'s-<hi>Head-Alley,</hi> over againſt the <hi>Royal-Exchange, Cornhill.</hi>
+            </p>
+            <p>The Sale beginning preciſely at Four of the Clock in the Afternoon.</p>
+            <p>Catalogues of which are diſtributed by Mr. <hi>Gilliflower,</hi> in <hi>Weſtminſter-Hall:</hi> Mr. <hi>Nott</hi> in the <hi>Pall-Mall:</hi> Mr. <hi>Bently</hi> in <hi>Ruſſel-ſtreet, Covent-Garden:</hi> Mr. <hi>Wilkinſon</hi> in <hi>Fleet-ſtreet:</hi> Mr. <hi>Miller</hi> in St. <hi>Paul</hi>'s Church-yard: And Mr. <hi>Crouch</hi> over againſt the <hi>Royal-Exchange,</hi> in <hi>Cornhill,</hi> Bookſellers.</p>
+            <p>
+               <hi>The Conditions of Sale as uſual, and the time of paying and fetching away the Lots ſo bought, to be within Three days after it at the ſaid place.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="drawings" type="collection">
+            <pb facs="tcp:31006:2"/>
+            <pb n="1" facs="tcp:31006:2"/>
+            <head>DRAWINGS.</head>
+            <list>
+               <item>1 CHriſt and <hi>Nicodemus,</hi> by <hi>Geradus Segers</hi>
+               </item>
+               <item>2 A <hi>Diana</hi> finely drawn, by <hi>Simon Vovet</hi>
+               </item>
+               <item>3 Two by <hi>Fr. Florus</hi> finely finiſht, by <hi>David Teniers</hi>
+               </item>
+               <item>4 A <hi>Satyr</hi> of <hi>Le Brum</hi>
+               </item>
+               <item>5 A Curious Statute of <hi>Rome,</hi> by <hi>Corregio</hi>
+               </item>
+               <item>6 A very fine piece of Flowers in Water Colous</item>
+               <item>7 A neat pair of Organs, by <hi>Sibaldus,</hi> and Statue by <hi>Taliſius</hi>
+               </item>
+               <item>8 A fine Drawing of <hi>Raphael Urbin de Roma</hi>
+               </item>
+               <item>9 A Story by <hi>Lucas van Leyden,</hi> with another</item>
+               <item>10 A very finely finiſht Drawing, by <hi>Hans Holhen</hi>
+               </item>
+               <item>11 A fine Landskip, drawn by <hi>Antony Waterlow</hi>
+               </item>
+               <item>12 A Saint <hi>Michael</hi> very finely drawn, by <hi>Raphael de Roma,</hi> with a Head of <hi>Titian</hi>
+               </item>
+               <item>13 A Herauld at Arms finely drawn, by <hi>Lucas van Leyden</hi>
+               </item>
+               <item>14 A Monkey finely drawn in Water Colours</item>
+               <item>15 The Virgin <hi>Mary</hi> finely drawn, by <hi>Van Dyck</hi>
+               </item>
+               <item>16 Saint <hi>Francis</hi> curiouſly done, by <hi>Odoardo Fialett Venetia</hi>
+               </item>
+               <item>17 The good mans Charity, by <hi>Francis Gabarti</hi>
+               </item>
+               <item>18 Two fine Figures, drawn by <hi>Polidoro de Carravago de Roma,</hi> &amp;c.</item>
+               <item>19 A <hi>Roman</hi> Marriage finely drawn, by <hi>Paſquillino de la Marcho</hi>
+               </item>
+               <item>20 Two Drawings, by <hi>Quaſt</hi> and <hi>Sasklever</hi>
+               </item>
+               <item>21 A fine Drawing, by <hi>Franciſco Salvacio de Venetia</hi>
+               </item>
+               <item>22 A very neat Landskip in Water Colours, with a Sea-port of <hi>Fr. Floris</hi>
+               </item>
+               <item>23 Two Drawings, of <hi>Bramer</hi> and <hi>Depenbeck</hi>
+               </item>
+               <item>24 A very neat Drawing of <hi>Peter Puruſine</hi>
+               </item>
+               <item>25 A Virgin <hi>Mary</hi> in the Clouds, by <hi>Allde Graff</hi>
+               </item>
+               <item>26 Our Saviour on the Croſs, by <hi>Propertio</hi>
+               </item>
+               <item>27 A very curious Hiſtory, drawn by <hi>Julio Romano</hi>
+               </item>
+               <item>28 A very neat Drawing of a Battel, by <hi>Bramer</hi>
+               </item>
+               <item>29 A Merry-making of Boars, by <hi>Rubens</hi>
+               </item>
+               <item>30 A very neat Drawing of <hi>Perino del Vago de Roma</hi>
+               </item>
+               <item>31 One Drawing of <hi>Broffalmacco</hi>
+               </item>
+               <item>32 Two fine Drawings in Limning</item>
+               <item>33 A very curious Drawing of <hi>Bunell</hi>
+               </item>
+               <item>34 A very fine Drawing of <hi>Sandro Botiſcillo</hi>
+               </item>
+               <item>35 One very neat Drawing of <hi>Jacob de Pondormore</hi>
+               </item>
+               <item>36 A very fine Duel, Drawn by <hi>Stephano Florencie</hi>
+               </item>
+               <item>37 A <hi>Roman</hi> Rape, done by <hi>Nicolo del Abate</hi>
+               </item>
+               <item>38 A Sea God, done by <hi>P. P. Rubens</hi>
+               </item>
+               <item>39 <hi>Janus,</hi> drawn by <hi>Polidoro de Carravago</hi>
+               </item>
+               <item>40 Our Saviours laſt Supper, drawn by <hi>C. Schutt</hi>
+               </item>
+               <item>41 A curious piece of Water Colour Flowers</item>
+               <item>42 A Gallery, drawn by <hi>Bramer</hi>
+               </item>
+               <item>43 St. <hi>Peter</hi> and St. <hi>Paul,</hi> finely drawn by <hi>P. P. Rubens</hi>
+               </item>
+               <item>44 A Drawing of <hi>Pollidoro de Carravago</hi>
+               </item>
+               <item>45 A curious Drawing of <hi>F. Salvatio</hi>
+               </item>
+               <item>46 A Champion very finely Drawn, by <hi>B. Tintorett</hi>
+               </item>
+               <pb n="2" facs="tcp:31006:3"/>
+               <item>47 A fine Statue of <hi>Franciſco Salvatio</hi>
+               </item>
+               <item>48 A fine Drawing of a Gallery, by <hi>Polidoro</hi>
+               </item>
+               <item>49 A curious Figure of <hi>Michael Anglelo de Roma,</hi> with one of <hi>Fr. Floris</hi>
+               </item>
+               <item>50 The Salutation of the Virgin <hi>Mary,</hi> by <hi>J. Tradamus</hi>
+               </item>
+               <item>51 A fine <hi>Roman</hi> Figure, drawn curiouſly in Water Colours</item>
+               <item>52 Two very neat Drawings in Water Colours</item>
+               <item>53 Three Drawings by <hi>Michael Angelo, Delſerto</hi> and <hi>F. Perier</hi>
+               </item>
+               <item>54 A curious <hi>Roman</hi> Emperour, drawn by <hi>Van Dyck</hi>
+               </item>
+               <item>55 St. <hi>Lawrence</hi> on the Grid-Iron, by <hi>Pelegreno</hi>
+               </item>
+               <item>56 A curious pair of Organs, by <hi>Vincenzo Scamozzi</hi>
+               </item>
+               <item>57 Two Drawings of <hi>Paul Brill</hi> and <hi>Van den Boos</hi>
+               </item>
+               <item>58 Two Drawings of <hi>A. del Serto</hi> and <hi>Bramer</hi>
+               </item>
+               <item>59 A very fine Fowling Piece of <hi>Jacobus Callot</hi>
+               </item>
+               <item>60 A curious Landskip, done by <hi>P. Brill</hi>
+               </item>
+               <item>61 Three Drawings by <hi>Brugle Vanden Boos</hi> and <hi>Gneets</hi>
+               </item>
+               <item>62 Three Drawings of <hi>Pollidore</hi> and others</item>
+               <item>63 Two curious Water Colour Paintings of Birds</item>
+               <item>64 Two neat Drawings of <hi>Pollenburg</hi>
+               </item>
+               <item>65 A fine Figure of <hi>Le Brun</hi>
+               </item>
+               <item>66 Three Drawings of <hi>Permens, Vanden Boos,</hi> and <hi>Bramer</hi>
+               </item>
+               <item>67 A very fine Drawing of <hi>A. del Sarto</hi>
+               </item>
+               <item>68 A curious Drawing of Fruit, in Water Colours</item>
+               <item>69 A fine Figure of <hi>Le Brun</hi>
+               </item>
+               <item>70 Our Saviour carrying the Croſs, by <hi>T. Zuccario</hi>
+               </item>
+               <item>71 The Battel of <hi>Alexander,</hi> by <hi>Baltazar da Liena</hi>
+               </item>
+               <item>72 <hi>Julius Caeſars</hi> Ingagements, by <hi>Polidore de Carravagio</hi>
+               </item>
+               <item>73 A Bird and Dog in Water Colours</item>
+               <item>74 Two neat Drawings in Water Colours</item>
+               <item>75 A curious piece of Fruit, in Water Colours</item>
+               <item>76 A fine Crucifix, by <hi>Battiſta Franco</hi>
+               </item>
+               <item>77 Two Drawings and a Head, by <hi>Polidore,</hi> with a Story by <hi>B. Bantil</hi>
+               </item>
+               <item>78 Two Drawings, one of <hi>Roſſe,</hi> and other of <hi>Pereno del Vago</hi>
+               </item>
+               <item>79 <hi>Roman</hi> Arms, drawn by <hi>Polidore</hi> very finely</item>
+               <item>80 St. <hi>Philip</hi> and the Eunuch drawn finely, by <hi>F. Floris</hi>
+               </item>
+               <item>81 Two Drawings, one of <hi>Pereno del Vago,</hi> and one of <hi>F. Grotius</hi>
+               </item>
+               <item>82 A very fine Battel of <hi>Burgignion</hi> Drawing</item>
+               <item>83 Two fine Drawings of <hi>Lucas van Leyden</hi>
+               </item>
+               <item>84 Two, one of <hi>Goltzius,</hi> and the other of <hi>Alde Graff</hi>
+               </item>
+               <item>85 A very finely finiſht Drawing of <hi>Brugell</hi>
+               </item>
+               <item>86 <hi>Moſes</hi> in the Wilderneſs, by <hi>Tintoret</hi>
+               </item>
+               <item>87 A Ecce-homo of <hi>Van Dyck</hi>
+               </item>
+               <item>88 A very neat Drawing of <hi>Ribera Spagniolo</hi>
+               </item>
+               <item>89 A fine Drawing with a Pen, by <hi>Brugell</hi>
+               </item>
+               <item>90 A Child kneeling, Drawn by <hi>Fredericus Barotius</hi>
+               </item>
+               <item>91 A very curious neat Drawing, by <hi>Perino Ligorio</hi>
+               </item>
+               <item>92 The Children of <hi>Iſrael</hi> in the Wilderneſs, by <hi>Michael Angelo</hi>
+               </item>
+               <item>93 Four Drawings of <hi>Rembrant,</hi> and others</item>
+               <pb n="3" facs="tcp:31006:3"/>
+               <item>94 Two neat Drawings in Water Colours</item>
+               <item>95 Two Neat Drawings of St. <hi>Katherine,</hi> by <hi>Bramer</hi>
+               </item>
+               <item>96 A very neat Drawing of a Head, by <hi>Hans Holbens</hi>
+               </item>
+               <item>97 A St. <hi>Ann</hi> very finely Drawn, by <hi>Stephano Floriencie</hi>
+               </item>
+               <item>98 Three of <hi>Brugel, Depenbeck, &amp;c.</hi> Water Colours</item>
+               <item>99 Three Drawings of <hi>Francis Verbeck,</hi> in Water Colours</item>
+               <item>100 A Gallery of <hi>Pollidore de Carravago de Roma</hi>
+               </item>
+               <item>101 A very fine Drawing of a Biſhops Head, by <hi>Lucas Van Leyden</hi>
+               </item>
+               <item>102 Twenty one Drawings of <hi>Blomaert,</hi> and other Maſters</item>
+               <item>103 Twelve Drawings of <hi>Innigo Jones, Skieks,</hi> and others</item>
+               <item>104 Ten Drawings of <hi>Lucas Cangiagi, Falkenburg, Barotius,</hi> and other <hi>Italian</hi> Maſters</item>
+            </list>
+         </div>
+         <div n="prints" type="collection">
+            <head>PRINTS.</head>
+            <list>
+               <item>1 FOur Prints of <hi>Raphael Julio, Romano,</hi> and others</item>
+               <item>2 Four of <hi>M. Angelo, Titian, Permens</hi> and <hi>Rous</hi>
+               </item>
+               <item>3 A Set of <hi>Elſhamers</hi> Works, in ſeven Sheets</item>
+               <item>4 Three Hiſtories of <hi>Anthony Van Dyck</hi>
+               </item>
+               <item>5 Ten Figures of <hi>Martin de Bologne</hi>
+               </item>
+               <item>6 Ten Flowers of <hi>Baptiſt</hi>
+               </item>
+               <item>7 The Battel of the <hi>Amazons,</hi> in ſix Sheets, by <hi>P. P. Rubens</hi>
+               </item>
+               <item>8 The three Kings out of the <hi>Eaſt,</hi> by <hi>Geradus Segers</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>9 Four fine <hi>French</hi> Heads, by <hi>Edlin,</hi> &amp;c.</item>
+               <item>10 A fine Print of <hi>G. D. Laireſſe,</hi> and another of <hi>Campane</hi>
+               </item>
+               <item>11 A very fine view of <hi>Genderie,</hi> by <hi>Vande Mullen</hi>
+               </item>
+               <item>12 The Woman taken in Adultery, by <hi>Poſine</hi>
+               </item>
+               <item>13 The Children Murther, in two Sheets, by <hi>P. P. Rubens</hi>
+               </item>
+               <item>14 Two fine large Drolls of <hi>Oſtade</hi>
+               </item>
+               <item>15 Two Prints of <hi>Flinck</hi> and <hi>Bloatling</hi>
+               </item>
+               <item>16 Our Saviour taken from the Croſs, by <hi>Van Dyck,</hi> with one of <hi>Voet</hi>
+               </item>
+               <item>17 One of <hi>Van Dyck,</hi> and one of <hi>Bordone</hi>
+               </item>
+               <item>18 The eight Gods of <hi>Polidore de Roma</hi>
+               </item>
+               <item>19 The Golden Age of <hi>Abraham Blomaert</hi>
+               </item>
+               <item>20 The ſeven Wonders of the World, by <hi>Tempeſt</hi>
+               </item>
+               <item>21 The four Prodigal Sons of <hi>P. Teſta</hi>
+               </item>
+               <item>22 Four Landskips, two of <hi>Titianus,</hi> one of <hi>Elſhamer</hi> and one of <hi>Blan</hi>
+               </item>
+               <item>23 Two fine Heads of the Works of <hi>Guido Rheni</hi>
+               </item>
+               <item>24 The Virgin <hi>Mary</hi> and <hi>Elizabeth,</hi> by <hi>Raphael,</hi> and one of <hi>Montania</hi>
+               </item>
+               <item>25 The twelve <hi>Roman</hi> Emperours, by <hi>P. Rubens</hi>
+               </item>
+               <item>26 Three Prints of <hi>Elſhamer</hi> and others</item>
+               <item>27 Two Stories of <hi>Peter Teſta</hi>
+               </item>
+               <item>28 Two fine Heads of <hi>Nantevill</hi>
+               </item>
+               <item>29 Two Heads of <hi>Van Schuppen</hi> and <hi>P. Pontius</hi>
+               </item>
+               <item>30 <hi>Raphaels</hi> St. <hi>George,</hi> and two other <hi>Italian</hi> Prints</item>
+               <item>31 Five Prints of <hi>Jacobus Callot</hi>
+               </item>
+               <item>32 Three Heads of <hi>Nantevill,</hi> &amp;c.</item>
+               <item>33 Four curious Heads of <hi>Van Dyck</hi>
+               </item>
+               <item>34 Two <hi>Modona</hi>'s, by <hi>Polly</hi>
+               </item>
+               <item>35 The Amours of <hi>Venus</hi> and <hi>Cupid,</hi> in twelve Sheets, by <hi>Carracci</hi> and <hi>Bloatling</hi>
+               </item>
+               <pb n="4" facs="tcp:31006:4"/>
+               <item>36 The five Senſes of <hi>Peter Schenck,</hi> in <hi>Metzo-tinto</hi>
+               </item>
+               <item>37 The four Elements of <hi>Annibal Carracci</hi>
+               </item>
+               <item>38 The Wiſe men out of the <hi>Eaſt,</hi> by <hi>Annibal Carracci</hi>
+               </item>
+               <item>39 Two more Prints of <hi>Annibal Carracci</hi>
+               </item>
+               <item>40 The four Amours of <hi>Cupid</hi> and <hi>Bacchus,</hi> by <hi>G. Rheni</hi>
+               </item>
+               <item>41 The flight in <hi>Egypt,</hi> by <hi>Guido Rheni,</hi> with another <hi>Italian</hi>
+               </item>
+               <item>42 The ſix days Works, by <hi>Abraham Blomeert</hi>
+               </item>
+               <item>43 Four Drolls, by <hi>David Teners,</hi> another by <hi>Van Dyck</hi>
+               </item>
+               <item>44 The ten <hi>Roman</hi> Propheſies, by <hi>Julio Romano</hi>
+               </item>
+               <item>45 The four Seaſons, by <hi>Anthony Tempeſt</hi>
+               </item>
+               <item>46 St. <hi>Hieronimus</hi> and <hi>Melancholia,</hi> by <hi>Albert Durer</hi>
+               </item>
+               <item>47 A Fine Bacchanal, by <hi>Julio Romano</hi>
+               </item>
+               <item>48 <hi>For tune</hi> and <hi>Cupid,</hi> by <hi>Guido Rines</hi> and another</item>
+               <item>49 The twelve Months, by <hi>Hans Sebelsben,</hi> with one <hi>Italian</hi> Print</item>
+               <item>50 Three Heads of <hi>Van Dyck,</hi> and a Story of <hi>A. del Serte</hi>
+               </item>
+               <item>51 The Holy Life of our Saviour in Wood Cuts, by <hi>Albert Durer</hi>
+               </item>
+               <item>52 A Bacchanal of <hi>Joſeph a Ribra, Hisp. Valenti</hi> and <hi>Rembrant</hi>
+               </item>
+               <item>53 <hi>Raphaels</hi> Gallatea, and one of <hi>Johan Bapt. Heregoods</hi>
+               </item>
+               <item>54 Three large Hiſtories of <hi>Paul Veroneſs, Tempeſt</hi> and <hi>Rubens</hi>
+               </item>
+               <item>55 Six Hiſtories of <hi>Salviati, Goltzius, Battiſta de Roſſi,</hi> and others</item>
+               <item>56 Six Hiſtories of <hi>Tintoret, Tempeſt, Voet, Berghem,</hi> and others</item>
+               <item>57 Six Prints of <hi>Rembrant, Muller, Oſtade</hi> and <hi>Pirinus</hi>
+               </item>
+               <item>58 Five large Prints of <hi>Van Dyek, Rubens,</hi> and others</item>
+               <item>59 Seven Prints of <hi>Villamena Parmenſe,</hi> and others</item>
+               <item>60 <hi>Golzius</hi> Maſter-pieces, in ſix large Sheets</item>
+               <item>61 Five Prints of <hi>Baccius Bandinellus, Boroccius, Segers,</hi> and others</item>
+               <item>62 <hi>Tintorets</hi> Crucifix, in three large Sheets, and one large Head</item>
+               <item>63 Six Hiſtories of <hi>Simon Voet,</hi> in ſix large Sheets</item>
+               <item>64 Six Prints of <hi>Frederick Boroccius, Voet,</hi> and <hi>Vander Mulen</hi>
+               </item>
+               <item>65 Five Prints of <hi>Van Dyck, Rubens, Rembrant, Cher. Albertus</hi>
+               </item>
+               <item>66 Four Prints of <hi>Raphael Urbin, Palma, Segers</hi> and <hi>Schut</hi>
+               </item>
+               <item>67 Three Prints of <hi>Boroccius,</hi> and Sir <hi>Anth Van Dyck</hi>
+               </item>
+               <item>68 <hi>Herods</hi> Cruelty of <hi>Rubens,</hi> and one large Head of <hi>Vander Helſt</hi>
+               </item>
+               <item>69 One book of <hi>Simon Voet,</hi> in ſeven Sheets</item>
+               <item>70 Nineteen Prints of <hi>Mich. Angelo, Baſſan, Della Bella,</hi> and others</item>
+               <item>71 Two books of <hi>Voet</hi> and <hi>Berghem,</hi> in eleven Sheets</item>
+               <item>72 Twelve Prints of <hi>Zeeman, Rembrant, Voet,</hi> and others</item>
+               <item>73 Eighteen Prints of <hi>Baſſan, Teniers,</hi> and others</item>
+               <item>74 Six Prints of <hi>Rubens, Oſtade,</hi> and <hi>Elſhamer</hi>
+               </item>
+               <item>75 Ten <hi>Italian</hi> and other Prints</item>
+               <item>76 Ten Prints of <hi>Voet, Elſhamer,</hi> and others</item>
+               <item>77 Ten Heads of <hi>Nantevill, Polly,</hi> and others</item>
+               <item>78 Thirty Eight Heads of Emperours, <hi>&amp;c.</hi>
+               </item>
+               <item>79 Eight Heads of Sir <hi>Anth. Van Dyck, Lynijus,</hi> and others</item>
+               <item>80 Eight Heads of <hi>Titian, Van Somer,</hi> and others</item>
+               <item>81 One book of the <hi>Roman</hi> Statues, by <hi>Biſhop,</hi> fifty Sheets</item>
+               <item>82 The Hiſtory of the <hi>Roman</hi> Wars, and of the 7 Brethren of <hi>Tempeſt</hi>
+               </item>
+            </list>
+         </div>
+         <div n="paintings" type="collection">
+            <pb n="5" facs="tcp:31006:4"/>
+            <head>PAINTINGS.</head>
+            <list>
+               <item>1 A Fame finely done, by <hi>Simon Voet</hi>
+               </item>
+               <item>2 A very neat Landskip, by a good Maſter</item>
+               <item>3 A Ceeling Piece finely Painted, by <hi>J. Jordaens</hi>
+               </item>
+               <item>4 Angels and Cupids well Painted</item>
+               <item>5 An <hi>Italian</hi> Head well Painted</item>
+               <item>6 A Curious Pictor of <hi>Bernart</hi>
+               </item>
+               <item>7 A Droll of <hi>Vander Venna,</hi> in black and white</item>
+               <item>8 A Socrates, by <hi>Moſes Jetenbroock</hi>
+               </item>
+               <item>9 A Maid with Flowers</item>
+               <item>10 A <hi>Spaniard</hi> finely Painted</item>
+               <item>11 A <hi>Romanh</hi> Hiſtory</item>
+               <item>12 An <hi>Italian</hi> Head</item>
+               <item>13 A rare Proſpect of a Cathedral Church in <hi>Antwerp,</hi> done by <hi>de Neeffs</hi>
+               </item>
+               <item>14 A Monky, done by <hi>de Lare,</hi> in ſmall</item>
+               <item>15 A <hi>Dutch</hi> Maiden</item>
+               <item>16 A large Kitchen piece, finely done by a <hi>Dutch</hi> Maſter</item>
+               <item>17 Chriſts Head well Painted</item>
+               <item>18 The Virgin <hi>Mary</hi> and <hi>Joſeph,</hi> finely done in black and white</item>
+               <item>19 A fine Head of <hi>Holbens</hi> Painting</item>
+               <item>20 A fine Fruit Piece of <hi>de Hems</hi> Painting</item>
+               <item>21 A naked Woman finely Painted, by <hi>Johannes Bapt. Heregooſt</hi>
+               </item>
+               <item>22 A Fool of <hi>Jordaens,</hi> finely Painted</item>
+               <item>23 A Droll of old <hi>Hemeſkerck</hi>
+               </item>
+               <item>24 A Droll of <hi>Francis Halls,</hi> finely Painted</item>
+               <item>25 A Fire of <hi>Egbert Vander Pooll,</hi> finely Painted</item>
+               <item>26 A Frier of <hi>P. Rubens,</hi> finely Painted</item>
+               <item>27 A Sea Port, done by <hi>Caſtro</hi>
+               </item>
+               <item>28 A Droll of <hi>Brugell</hi> well Painted</item>
+               <item>29 A Droll done by <hi>Pootoile</hi>
+               </item>
+               <item>30 A Droll done by <hi>Pootoile</hi>
+               </item>
+               <item>31 <hi>Abraham Blomaerts</hi> Vanities and <hi>Cupid</hi>
+               </item>
+               <item>32 A Landskip, by <hi>Mompart</hi>
+               </item>
+               <item>33 A fine Landskip of <hi>Jean van Godyene</hi>
+               </item>
+               <item>34 A good Head of a <hi>Spaniard</hi> well Painted</item>
+               <item>35 A neat Landskip well Painted</item>
+               <item>36 A Landskip, and Hiſtory of Chriſt and the twelve Diſciples</item>
+               <item>37 A neat black and white of the four Evangeliſts</item>
+               <item>38 St. <hi>Peter</hi> Curing the Lame, finely done by <hi>Sibaldus Rheem</hi>
+               </item>
+               <item>39 A Fool playing with a Maid well Painted</item>
+               <item>40 A very fine Book for Prints and Drawings</item>
+               <item>41 Another book for the ſame, both well bound</item>
+               <item>42 A book with three Gallerys of <hi>Carraci, Corregio, Corton</hi>
+               </item>
+               <item>43 A Mountibank well Painted</item>
+            </list>
+         </div>
+         <div n="miscellany" type="collection">
+            <pb n="6" facs="tcp:31006:5"/>
+            <head>More Paintings, Drawings and Prints.</head>
+            <list>
+               <item>1 SIx Droll Heads, by an Outlandiſh hand</item>
+               <item>2 One Sea Piece of <hi>Vander Mulen,</hi> and one of <hi>Marmion, &amp;c.</hi>
+               </item>
+               <item>3 Three Heads of <hi>Egbert Haemſkerck</hi>
+               </item>
+               <item>4 A Droll, Drawn by <hi>Oſtade</hi>
+               </item>
+               <item>5 St. <hi>John</hi> in the Deſert, of <hi>Blomaerts</hi>
+               </item>
+               <item>6 <hi>Bacchus, Venus,</hi> and <hi>Ceres,</hi> of <hi>Spranger</hi>
+               </item>
+               <item>7 Hunting, by <hi>P. P. Rubens</hi>
+               </item>
+               <item>8 The Birth of Chriſt, with three Kings, finely drawn</item>
+               <item>9 Two fine Drawings</item>
+               <item>10 Five Drawings, by <hi>Fuller</hi> and <hi>Biſhop</hi>
+               </item>
+               <item>11 Five Drawings, by <hi>Fuller</hi> and <hi>Larroon</hi>
+               </item>
+               <item>12 A fine Drawing of the Beheading of St. <hi>Peter</hi>
+               </item>
+               <item>13 Three Drawings of <hi>Lemens</hi> and <hi>Larroon</hi>
+               </item>
+               <item>14 Eight Drawings, moſt of them <hi>Fullers</hi>
+               </item>
+               <item>15 Two Drawings, the one of <hi>Venus</hi> and <hi>Cupid,</hi> ſecond, Aſcention of Chriſt</item>
+               <item>16 Four Drawings, two <hi>Larroons,</hi> two others</item>
+               <item>17 Five large Prints of <hi>Rubens</hi>
+               </item>
+               <item>18 Six large Prints of <hi>Titian, Palma,</hi> and others</item>
+               <item>19 Four ſmall Skieches of <hi>Fuller</hi>
+               </item>
+               <item>20 Two large Skieches Painted of <hi>Fuller</hi>
+               </item>
+               <item>21 Eight Prints of <hi>Tempeſt</hi>
+               </item>
+               <item>22 Seven Drolls of <hi>Viſher</hi> and <hi>Oſtade</hi>
+               </item>
+               <item>23 Fourteen ſeveral Prints</item>
+               <item>24 Five of <hi>Le Bruns</hi> and <hi>Bereas</hi> Crucifixes</item>
+               <item>25 Nine Prints of <hi>Rubens</hi>
+               </item>
+               <item>26 Four <hi>Italian</hi> Prints</item>
+               <item>27 Eight Medonas of <hi>Edling</hi> and <hi>Van Dyck</hi>
+               </item>
+               <item>28 Four Drawings of <hi>Fuller</hi> and <hi>Caſtro</hi>
+               </item>
+               <item>29 One Drawing of <hi>Cupid</hi> and <hi>Pſyche,</hi> by <hi>Saraback</hi>
+               </item>
+               <item>30 Two Drawings of <hi>Iſa. Saraback</hi>
+               </item>
+               <item>31 Eight <hi>Metzo-tinto</hi> of <hi>Skenke</hi> and <hi>Vaillant</hi>
+               </item>
+               <item>32 Four Heads of <hi>Van Dyck</hi> and <hi>Rubens</hi>
+               </item>
+               <item>33 One Print of the Aſcention, by <hi>Raphael</hi>
+               </item>
+               <item>34 A Hare and Pheaſant</item>
+               <item>35 A curious Schetch</item>
+               <item>36 Mr. <hi>Cowley</hi> after <hi>Fuller</hi>
+               </item>
+               <item>37 A Sketch by <hi>Boneſt</hi>
+               </item>
+               <item>38 Grapes and Oyſters</item>
+               <item>39 A Land Fight</item>
+               <item>40 Rheniſh-Wine Glaſs</item>
+               <item>41 <hi>Sampſon</hi>
+               </item>
+               <item>42 A head, by <hi>Dobſon</hi>
+               </item>
+            </list>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:31006:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
